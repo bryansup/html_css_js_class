@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  /*this width can be put in ul or li a, go on moving around, same result?*/
+  width: 200px;
+  background-color: #f1f1f1
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  background-color: #dddddd;
+  text-decoration: none;
+}
+
+
+/* HERE ADDED ACTIVE STATE AND OUTLINE */
+/* Change the link color on hover */
+li a:hover {
+  background-color: #4cb1f0;
+  color: white;
+ 
+}
+
+li a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: #e14141;
+  color: white;
+}
+
+ul {
+  border: 3px solid #555;
+}
+
+li {
+  text-align: center;
+  border-bottom: 3px solid #555;
+}
+
+
+li:last-child {
+  border-bottom: none;
+}
+
+

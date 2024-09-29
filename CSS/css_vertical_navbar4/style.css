@@ -9,7 +9,8 @@ ul {
   padding: 0;
   /*this width can be put in ul or li a, go on moving around, same result?*/
   width: 200px;
-  background-color: #f1f1f1 border: 1px solid #555;
+  background-color: #f1f1f1;
+  border: 1px solid #555;
 }
 
 li a {

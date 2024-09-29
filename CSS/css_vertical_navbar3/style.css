@@ -26,7 +26,6 @@ li a {
 li a:hover {
   background-color: #4cb1f0;
   color: white;
- 
 }
 
 li a.active {
@@ -52,5 +51,3 @@ li {
 li:last-child {
   border-bottom: none;
 }
-
-

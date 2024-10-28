@@ -1,11 +1,11 @@
 html {
-    height: 100%;
-    width: 100%;
-  }
-  
-  /*menghilangkan bullets point pada list*/
-  ul {
-    list-style-type: none; /*set to none so it disappear below is for making it stick to the left side*/
-    margin: 0;
-    padding: 0;
-  }
+  height: 100%;
+  width: 100%;
+}
+
+/*menghilangkan bullets point pada list*/
+ul {
+  list-style-type: none; /*set to none so it disappear below is for making it stick to the left side*/
+  margin: 0;
+  padding: 0;
+}

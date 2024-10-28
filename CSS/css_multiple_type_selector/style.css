@@ -1,18 +1,17 @@
 html {
-    height: 100%;
-    width: 100%;
-  }
-  
-  span,h1 {
-    background-color: yellow;
-  }
-  
-  strong {
-    color: hotpink;
-  }
-  
-  em {
-    color: blue;
-  }
-  
-  
+  height: 100%;
+  width: 100%;
+}
+
+span,
+h1 {
+  background-color: yellow;
+}
+
+strong {
+  color: hotpink;
+}
+
+em {
+  color: blue;
+}

@@ -3,9 +3,8 @@
 html {
   height: 100%;
   width: 100%;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
-
 
 body {
   /* try remove the comment below and see is the font changing or not, it's related to computer read from top to bottom 

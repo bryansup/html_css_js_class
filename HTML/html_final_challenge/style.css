@@ -44,6 +44,7 @@ main {
 
 .question {
   font-weight: bold;
+  color: #ff77b7;
   /*background-color: pink;
     /*opacity: 0.5; /*50% opacity */
 }
